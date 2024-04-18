@@ -2,7 +2,7 @@
 ![Captura de tela de 2024-04-17 07-09-01](https://github.com/DaniloCalado/rent_A_car_backend/assets/83645426/edac07a2-5d54-4c4f-a7f5-50ef7d11e11f)
 ![Captura de tela de 2024-04-17 07-09-14](https://github.com/DaniloCalado/rent_A_car_backend/assets/83645426/ee29dc17-ec16-40fb-86af-9fc44556e63e)
 ![Captura de tela de 2024-04-17 07-09-28](https://github.com/DaniloCalado/rent_A_car_backend/assets/83645426/5e6967d9-e109-48ff-b44a-02995a26dc54)
-
+ps: informações ficticias
 # Rent a Car Backend
 
 Este é um projeto de backend para uma aplicação de aluguel de carros. Ele inclui um sistema de gerenciamento de clientes, carros e aluguéis.
