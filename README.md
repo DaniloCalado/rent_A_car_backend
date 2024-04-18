@@ -20,7 +20,7 @@ No contexto deste projeto, o Sequelize é usado para definir modelos de dados pa
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/rent-a-car-backend.git
+git clone https://github.com/DaniloCalado/rent_A_car_backend.git
 
 
 Navegue até o diretório do projeto:
